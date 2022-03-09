@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "Substance",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": false
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": false
+		},
+		{
+			"Name": "UltimateFPSTemplate",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4986d4f5b73148deb154e1cd31dd9623"
+		}
+	]
+}
